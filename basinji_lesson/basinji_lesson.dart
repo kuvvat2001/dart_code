@@ -8,7 +8,8 @@
 void main(List<String> args) {
   String at = "Kuwwat";
   var familya = "Yagshygeldiyew";
-  int yas = 22;
+ /*  int yas = 22;
+  print(yas); */
 
   print(
       "Menin adym $at familyam $familya men $int yasymda we menin ADTMYN WE FAMILYAMYN harplarynyn jemi ${at.length + familya.length}'dir");
